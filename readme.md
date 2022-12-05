@@ -43,7 +43,7 @@ Finishing program done!
 
 - Install dart [SDK](https://dart.dev/get-dart)
 - Clone this repository to your local machine
-- Navigate to directory with the where ***main.dart***
+- Navigate to directory with the ***main.dart***
 - Run the command `dart main.dart`
 - Enjoy the game
 
